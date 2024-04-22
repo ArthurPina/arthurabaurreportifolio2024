@@ -1,0 +1,19 @@
+header { 
+    text-align: center;
+    background-color: slategray
+}
+
+img{   
+    border-radius: 90px
+}
+
+body{
+    text-decoration: solid white;
+    background-color:gray    
+}
+
+div{
+    display: inline-block;
+    justify-content: space-evenly;
+    background-color: gray
+}
